@@ -1,6 +1,5 @@
 # GTEP Planning Horizon and Multi-Round
 
-## Purpose
 This page explains how A-LEAF constructs the planning horizon for generation and transmission expansion planning, and how the optional multi-round solution process breaks that horizon into overlapping subproblems.
 
 The descriptions in this page are based on the actual implementation in:
@@ -267,6 +266,6 @@ When reviewing a GTEP case, check the planning horizon in this order:
 
 ## Related Documentation
 - [GTEP Overview](./GTEP_Overview.md)
-- [Scenario Reduction and Representative-Day Groups](../../architecture/Scenario_Reduction_and_Repday_Groups.md)
+- [Scenario Reduction and Representative-Day Groups](../../configuration/Scenario_Reduction_and_Repday_Groups.md)
 - [Simulation Configuration Reference](../../configuration/Simulation_Configuration_Reference.md)
 - [Policy and Financial Settings](../../configuration/Policy_and_Financial_Settings.md)

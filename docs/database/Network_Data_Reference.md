@@ -1,6 +1,5 @@
 # Network Data Reference
 
-## Purpose
 This page explains the two network-related input workbooks used by A-LEAF:
 - the base network data workbook
 - the optional network configuration workbook

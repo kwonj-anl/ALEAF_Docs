@@ -1,6 +1,5 @@
 # Simulation Configuration Reference
 
-## Purpose
 The `Simulation Configuration` sheet is the case-level control surface for A-LEAF. Each case is stored in its own column, and each column determines:
 - which models run
 - which input data variants are used

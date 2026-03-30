@@ -1,6 +1,5 @@
 # Large Load and Demand Response Reference
 
-## Purpose
 This page explains how large flexible load and demand-response style resources are represented in A-LEAF using the dedicated `demand` sheet in the network workbook and the explicit large-load constraints used in the expansion and operation models.
 
 In the current codebase, these resources are often referred to as:

@@ -1,6 +1,5 @@
 # ALEAF Simulation Setting File Reference
 
-## Purpose
 `ALEAF_Simulation_Setting_USA.xlsx` is the main user-facing control file for A-LEAF. It defines:
 - what system is being studied
 - which model families are run
@@ -26,26 +25,18 @@ The `ALEAF_Simulation_Setting_USA.xlsx` workbook currently contains these sheets
 - `Gen Technology`
 - `RA Setting`
 - `Simulation Configuration`
-- `Scenario ->`
 - `RA Scenarios`
 - `Scenario Reduction Setting`
-- `Financial Params ->`
 - `ATB Setting`
 - `Storage Cost and Performance`
 - `ITC`
 - `PTC`
-- `Solver Settings ->`
 - `CPLEX Setting`
 - `HiGHS Setting`
-- `Matarial Settings ->`
 - `Raw Materials`
 - `Gen Technology Raw Materials`
-- `Other Settings ->`
 - `External Constraints`
-- `Ancillary Tabs->`
 - `ATB Params`
-
-Several sheets ending with `->` act more like separators or section markers than data sheets.
 
 ## 1. `Simulation Setting`
 This sheet defines model-wide simulation behavior and global numerical settings.

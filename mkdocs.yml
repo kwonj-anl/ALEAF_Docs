@@ -25,29 +25,30 @@ markdown_extensions:
 nav:
   - Overview: README.md
   - Configuration:
-      - Simulation Setting File: configuration/ALEAF_Simulation_Setting_File.md
-      - Simulation Configuration Reference: configuration/Simulation_Configuration_Reference.md
+      - Simulation Setting: configuration/ALEAF_Simulation_Setting_File.md
+      - Simulation Configuration: configuration/Simulation_Configuration_Reference.md
       - Policy and Financial Settings: configuration/Policy_and_Financial_Settings.md
-      - Scenario Reduction and Representative-Day Groups: configuration/Scenario_Reduction_and_Repday_Groups.md
+      - Scenario Reduction: configuration/Scenario_Reduction_and_Repday_Groups.md
   - Database:
-      - Network Data Reference: database/Network_Data_Reference.md
-      - Network Configuration Reference: database/Network_Configuration_Reference.md
-      - Gen Technology Reference: database/Gen_Technology_Reference.md
-      - Storage Modeling Reference: database/Storage_Modeling_Reference.md
-      - Hybrid Resources Reference: database/Hybrid_Resources_Reference.md
-      - Large Load and Demand Response Reference: database/Large_Load_and_Demand_Response_Reference.md
+      - Network Data: database/Network_Data_Reference.md
+      - Network Configuration: database/Network_Configuration_Reference.md
+      - Gen Technology: database/Gen_Technology_Reference.md
+      - Storage Modeling: database/Storage_Modeling_Reference.md
+      - Hybrid Resources: database/Hybrid_Resources_Reference.md
+      - Large Load: database/Large_Load_and_Demand_Response_Reference.md
   - Models:
-      - Generation and Transmission Expansion Planning:
+      - GTEP:
           - Overview: models/GTEP/GTEP_Overview.md
-          - Planning Horizon and Multi-Round: models/GTEP/GTEP_Planning_Horizon_and_Multi_Round.md
+          - Planning Horizon: models/GTEP/GTEP_Planning_Horizon_and_Multi_Round.md
           - Expansion Outputs: models/GTEP/GTEP_Expansion_Outputs.md
       - Operation:
           - Overview: models/Operation/Operation_Overview.md
-          - Execution and Run Modes: models/Operation/Operation_Execution_and_Run_Modes.md
+          - Execution: models/Operation/Operation_Execution_and_Run_Modes.md
           - Outputs: models/Operation/Operation_Outputs.md
-      - Reliability Assessment:
+      - RA:
           - Overview: models/RA/RA_Overview.md
-          - Scenarios and Data: models/RA/RA_Scenarios_and_Data.md
-          - Execution and Results: models/RA/RA_Execution_and_Results.md
-          - Metrics, ELCC, and DLOL: models/RA/RA_Metrics_ELCC_and_DLOL.md
-          - Settings and Scenarios Reference: models/RA/RA_Settings_and_Scenarios_Reference.md
+          - Settings: models/RA/RA_Settings_and_Scenarios_Reference.md
+          - Scenarios: models/RA/RA_Scenarios_and_Data.md
+          - Execution: models/RA/RA_Execution_and_Results.md
+          - Metrics: models/RA/RA_Metrics_ELCC_and_DLOL.md
+          

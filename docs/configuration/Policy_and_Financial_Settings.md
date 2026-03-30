@@ -1,6 +1,5 @@
 # Policy and Financial Settings
 
-## Purpose
 This page explains two shared input areas in A-LEAF:
 - policy settings
 - financial and technology-cost settings
@@ -29,6 +28,8 @@ It is assembled from three layers:
 3. technology-level eligibility from `Gen Technology` plus year-value tables such as `ITC` and `PTC`
 
 This is why policy documentation needs to explain how the sheets work together, not just what each sheet contains.
+
+When both global and regional policy targets are defined, the global setting takes precedence in the implemented workflow. In other words, a case-level global target overwrites the corresponding regional targets rather than being combined with them.
 
 ## `ITC` and `PTC`
 

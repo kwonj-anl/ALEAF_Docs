@@ -1,6 +1,5 @@
 # Network Configuration Reference
 
-## Purpose
 This page explains the optional network configuration workbook used by A-LEAF and, in particular, the role of the `Network Setting` sheet.
 
 The most important idea is:

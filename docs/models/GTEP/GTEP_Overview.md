@@ -1,6 +1,5 @@
 # GTEP Overview
 
-## Purpose
 This section documents the generation and transmission expansion planning workflow implemented in A-LEAF.
 
 The current focus is on:
@@ -39,6 +38,6 @@ The current GTEP docs are based primarily on:
 - [A-LEAF Documentation](../../README.md)
 - [ALEAF Simulation Setting File Reference](../../configuration/ALEAF_Simulation_Setting_File.md)
 - [Simulation Configuration Reference](../../configuration/Simulation_Configuration_Reference.md)
-- [Scenario Reduction and Representative-Day Groups](../../architecture/Scenario_Reduction_and_Repday_Groups.md)
+- [Scenario Reduction and Representative-Day Groups](../../configuration/Scenario_Reduction_and_Repday_Groups.md)
 - [Policy and Financial Settings](../../configuration/Policy_and_Financial_Settings.md)
 - [Operation Overview](../Operation/Operation_Overview.md)

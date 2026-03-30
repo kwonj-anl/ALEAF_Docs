@@ -1,7 +1,6 @@
-# GTEP Operation Outputs
+# Operation Outputs
 
-## Purpose
-This page documents the files produced by the GTEP operation export workflow in A-LEAF.
+This page documents the files produced by the operation export workflow in A-LEAF.
 
 The source entry point is:
 - [export_LC_GTEP_result_OP](C:/ALEAF/a-leaf/src/model/LCO_GTEP.jl)

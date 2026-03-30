@@ -1,6 +1,5 @@
 # GTEP Expansion Outputs
 
-## Purpose
 This page documents the files produced by the expansion export workflow in A-LEAF.
 
 The source entry point is:
@@ -556,5 +555,4 @@ If you need a minimal expansion-result review sequence, inspect:
 ## Related Documentation
 - [GTEP Overview](./GTEP_Overview.md)
 - [GTEP Planning Horizon and Multi-Round](./GTEP_Planning_Horizon_and_Multi_Round.md)
-- [Scenario Reduction and Representative-Day Groups](../../architecture/Scenario_Reduction_and_Repday_Groups.md)
-- [A-LEAF Outputs and Artifacts](../../architecture/A_LEAF_Outputs_and_Artifacts.md)
+- [Scenario Reduction and Representative-Day Groups](../../configuration/Scenario_Reduction_and_Repday_Groups.md)

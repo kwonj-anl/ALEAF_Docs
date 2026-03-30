@@ -1,6 +1,5 @@
 # RA Settings and Scenarios Reference
 
-## Purpose
 This page explains the `RA Setting` and `RA Scenarios` sheets used by the Reliability Assessment model. It focuses on what each parameter controls in the implemented RA workflow and when the parameter matters.
 
 ## `RA Setting`
@@ -153,5 +152,4 @@ The `RA Scenarios` sheet drives four parts of the RA workflow:
 - renewable timeseries loading
 - joint outage x renewable scenario construction
 - reference ED and metric weighting by renewable scenario
-
 

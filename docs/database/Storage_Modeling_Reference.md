@@ -1,6 +1,5 @@
 # Storage Modeling Reference
 
-## Purpose
 This page explains how storage is represented in A-LEAF using the actual workbook surfaces and the storage constraints used in the expansion and operation models.
 
 Storage in A-LEAF is not driven by a single sheet. It is assembled from:

@@ -1,6 +1,5 @@
 # RA Overview
 
-## Purpose
 The Reliability Assessment (RA) model evaluates system reliability under generator outage uncertainty and renewable availability uncertainty. It uses representative days, dispatch-based redispatch modeling, and scenario filtering to estimate reliability outcomes such as unserved energy and loss-of-load risk.
 
 ## What RA Is Used For

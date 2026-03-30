@@ -1,6 +1,5 @@
 # Operation Overview
 
-## Purpose
 This section documents the standalone operation model in A-LEAF.
 
 In this documentation package, the operation model is treated as a separate model family from GTEP:
@@ -29,7 +28,7 @@ The operation model evaluates how a given system configuration is dispatched ove
 - [A-LEAF Documentation](../../README.md)
 - [ALEAF Simulation Setting File Reference](../../configuration/ALEAF_Simulation_Setting_File.md)
 - [Simulation Configuration Reference](../../configuration/Simulation_Configuration_Reference.md)
-- [Scenario Reduction and Representative-Day Groups](../../architecture/Scenario_Reduction_and_Repday_Groups.md)
+- [Scenario Reduction and Representative-Day Groups](../../configuration/Scenario_Reduction_and_Repday_Groups.md)
 - [Policy and Financial Settings](../../configuration/Policy_and_Financial_Settings.md)
 - [Storage Modeling Reference](../../database/Storage_Modeling_Reference.md)
 - [Hybrid Resources Reference](../../database/Hybrid_Resources_Reference.md)

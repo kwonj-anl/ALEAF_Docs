@@ -1,6 +1,5 @@
 # Hybrid Resources Reference
 
-## Purpose
 This page explains how hybrid resources are represented in A-LEAF using the actual `hybrid` sheet in the network workbook and the explicit hybrid constraints used in the expansion and operation models.
 
 In the current implementation, a hybrid resource is modeled as a linked pair:

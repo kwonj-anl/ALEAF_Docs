@@ -1,6 +1,5 @@
 # Gen Technology Reference
 
-## Purpose
 The `Gen Technology` sheet is the master technology-definition table in A-LEAF. Each row describes one technology option, and the columns control how that technology is represented in:
 - expansion planning
 - production cost simulation

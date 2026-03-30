@@ -1,7 +1,6 @@
-# GTEP Operation Execution and Run Modes
+# Operation Execution and Run Modes
 
-## Purpose
-This page explains how the GTEP operation model is run in A-LEAF and how the supported operation run modes differ.
+This page explains how the operation model is run in A-LEAF and how the supported operation run modes differ.
 
 The descriptions in this page are based on:
 - [LCO_GTEP.jl](C:/ALEAF/a-leaf/src/model/LCO_GTEP.jl)
@@ -185,4 +184,4 @@ If you are reviewing an operation run, check:
 - [Operation Outputs](./Operation_Outputs.md)
 - [GTEP Overview](../GTEP/GTEP_Overview.md)
 - [GTEP Expansion Outputs](../GTEP/GTEP_Expansion_Outputs.md)
-- [Scenario Reduction and Representative-Day Groups](../../architecture/Scenario_Reduction_and_Repday_Groups.md)
+- [Scenario Reduction and Representative-Day Groups](../../configuration/Scenario_Reduction_and_Repday_Groups.md)
