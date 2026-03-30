@@ -493,11 +493,6 @@ Typical columns include:
 
 This sheet is used for additional user-defined restrictions such as investment caps, retirement requirements, or regional build limits.
 
-## 14. Other Sheets
-
-### `Scenario ->`, `Financial Params ->`, `Solver Settings ->`, `Matarial Settings ->`, `Other Settings ->`, `Ancillary Tabs->`
-These appear to function as workbook section separators or organizational tabs rather than primary input tables.
-
 ### `ATB Params`
 This sheet is part of the ATB-related data bundle and supports the technology and cost mapping workflow.
 
