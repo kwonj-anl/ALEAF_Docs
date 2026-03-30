@@ -1,0 +1,55 @@
+site_name: A-LEAF Documentation
+site_description: Documentation for the Argonne Low-Carbon Electricity Analysis Framework
+site_url: https://example.github.io/a-leaf-docs/
+docs_dir: .
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: blue
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+nav:
+  - Overview: README.md
+  - Architecture:
+      - Scenario Reduction and Representative-Day Groups: architecture/Scenario_Reduction_and_Repday_Groups.md
+      - Outputs and Artifacts: architecture/A_LEAF_Outputs_and_Artifacts.md
+  - Configuration:
+      - Simulation Setting File: configuration/ALEAF_Simulation_Setting_File.md
+      - Simulation Configuration Reference: configuration/Simulation_Configuration_Reference.md
+      - Policy and Financial Settings: configuration/Policy_and_Financial_Settings.md
+  - Database:
+      - Network Data Reference: database/Network_Data_Reference.md
+      - Network Configuration Reference: database/Network_Configuration_Reference.md
+      - Gen Technology Reference: database/Gen_Technology_Reference.md
+      - Storage Modeling Reference: database/Storage_Modeling_Reference.md
+      - Hybrid Resources Reference: database/Hybrid_Resources_Reference.md
+      - Large Load and Demand Response Reference: database/Large_Load_and_Demand_Response_Reference.md
+  - Models:
+      - Generation and Transmission Expansion Planning:
+          - Overview: models/GTEP/GTEP_Overview.md
+          - Planning Horizon and Multi-Round: models/GTEP/GTEP_Planning_Horizon_and_Multi_Round.md
+          - Expansion Outputs: models/GTEP/GTEP_Expansion_Outputs.md
+      - Operation:
+          - Overview: models/Operation/Operation_Overview.md
+          - Execution and Run Modes: models/Operation/Operation_Execution_and_Run_Modes.md
+          - Outputs: models/Operation/Operation_Outputs.md
+      - Reliability Assessment:
+          - Overview: models/RA/RA_Overview.md
+          - Scenarios and Data: models/RA/RA_Scenarios_and_Data.md
+          - Execution and Results: models/RA/RA_Execution_and_Results.md
+          - Metrics, ELCC, and DLOL: models/RA/RA_Metrics_ELCC_and_DLOL.md
+          - Settings and Scenarios Reference: models/RA/RA_Settings_and_Scenarios_Reference.md
