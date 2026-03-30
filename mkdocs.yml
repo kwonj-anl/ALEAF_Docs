@@ -1,7 +1,7 @@
 site_name: A-LEAF Documentation
 site_description: Documentation for the Argonne Low-Carbon Electricity Analysis Framework
 site_url: https://github.com/kwonj-anl/ALEAF_Docs/
-docs_dir: .
+site_dir: _site
 theme:
   name: material
   features:
