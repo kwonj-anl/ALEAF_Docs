@@ -1,7 +1,6 @@
 site_name: A-LEAF Documentation
 site_description: Documentation for the Argonne Low-Carbon Electricity Analysis Framework
-site_url: https://github.com/kwonj-anl/ALEAF_Docs/
-docs_dir: docs
+site_url: https://example.github.io/a-leaf-docs/
 site_dir: _site
 theme:
   name: material
@@ -25,13 +24,11 @@ markdown_extensions:
       permalink: true
 nav:
   - Overview: README.md
-  - Architecture:
-      - Scenario Reduction and Representative-Day Groups: architecture/Scenario_Reduction_and_Repday_Groups.md
-      - Outputs and Artifacts: architecture/A_LEAF_Outputs_and_Artifacts.md
   - Configuration:
       - Simulation Setting File: configuration/ALEAF_Simulation_Setting_File.md
       - Simulation Configuration Reference: configuration/Simulation_Configuration_Reference.md
       - Policy and Financial Settings: configuration/Policy_and_Financial_Settings.md
+      - Scenario Reduction and Representative-Day Groups: configuration/Scenario_Reduction_and_Repday_Groups.md
   - Database:
       - Network Data Reference: database/Network_Data_Reference.md
       - Network Configuration Reference: database/Network_Configuration_Reference.md
